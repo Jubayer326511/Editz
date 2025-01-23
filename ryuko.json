@@ -1,0 +1,20 @@
+{
+    "author": "ryukoAndCCPROJECTS",
+    "developermode": false,
+    "language": "en",
+    "notification": true,
+    "approval": true,
+    "premium": false,
+    "BOTNAME": "𝐀𝐔𝐑𝐀-𝟓𝟑",
+    "BOTOWNER": "Jubayer-ahmed",
+    "PREFIX": "!",
+    "OPERATOR": [
+        ""
+    ],
+    "ADMINBOT": [
+        "100094073700967"
+    ],
+    "disabledcmds": [],
+    "disabledevents": [],
+    "note": "make sure that the bot name you entered is all lowercase"
+}
